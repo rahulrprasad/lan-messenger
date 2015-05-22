@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   
   <groupId>com.tools</groupId>
-  <artifactId>lan.messenger</artifactId>
+  <artifactId>lan-messenger</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   
